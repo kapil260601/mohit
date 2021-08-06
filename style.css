@@ -1,0 +1,70 @@
+body{
+    background-color:#b8e5fc ;
+}
+
+h1,h3,h2{border: none; background-color: aliceblue; 
+
+}
+p{ background-color: #F9F3F3;
+
+}
+
+
+table {
+
+    background-color: #EDF6E5;
+
+}
+hr{
+    border-style:none;
+    background-color: black;
+    height: 2px;
+}
+form{
+    background-color: #FDF6F0;
+
+}
+ul{
+    
+    
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    
+    background-color: #515E63;
+    font-size: 20px;
+    display: block;
+
+    
+}
+li{
+    float:left;
+   
+   
+    
+}
+li>a{
+    
+    display: block;
+    
+    padding:15px 15px;
+    text-decoration:none;
+    
+    color: seashell;
+
+    
+    
+}
+.right{
+    float: right;
+}
+li a:hover{
+    background-color:cornsilk;
+    color: black;
+    
+}
+
+
+ 
+
